@@ -1,0 +1,9 @@
+## .gitignore
+## define files and folders to be ignored by git
+.DS_Store
+
+## eclipse settings and project data
+.buildpath
+.project
+.settings
+Thumbs.db
